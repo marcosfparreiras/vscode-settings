@@ -1,0 +1,22 @@
+// Place your settings in this file to overwrite the default settings
+{
+    // When enabled, will trim trailing whitespace when you save a file.
+    "files.trimTrailingWhitespace": true,
+
+    // The number of spaces a tab is equal to. This setting is overriden based on the file contents when `editor.detectIndentation` is on.
+    "editor.tabSize": 2,
+
+    // Controls visibility of line numbers
+    "editor.lineNumbers": true,
+
+    // Controls whether the editor should render the current line highlight
+    "editor.renderLineHighlight": true,
+
+    // Inserting and deleting whitespace follows tab stops
+    "editor.useTabStops": true,
+
+    // Columns at which to show vertical rulers
+    "editor.rulers": [
+        80, 100, 120
+    ]
+}
