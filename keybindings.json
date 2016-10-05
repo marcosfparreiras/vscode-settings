@@ -1,8 +1,13 @@
 // Place your key bindings in this file to overwrite the defaults
 [
+  // Duplicate line, moving cursor down
   {
     "key": "ctrl+shift+d",
     "command": "editor.action.copyLinesDownAction",
     "when": ""
   }
+
+  // Commonly used shortcuts:
+  // ctrl+': toggle Terminal
+
 ]
