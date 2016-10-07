@@ -5,6 +5,11 @@
     "key": "ctrl+shift+d",
     "command": "editor.action.copyLinesDownAction",
     "when": ""
+  },
+  // Colapse file explorer folders
+  {
+    "key": "ctrl+e ctrl+c",
+    "command": "workbench.files.action.collapseFilesExplorerFolders"
   }
 
   // Commonly used shortcuts:
