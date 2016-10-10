@@ -10,6 +10,11 @@
   {
     "key": "ctrl+e ctrl+c",
     "command": "workbench.files.action.collapseFilesExplorerFolders"
+  },
+  // Open folder
+  {
+    "key": "ctrl+e ctrl+o",
+    "command": "workbench.action.files.openFolder"
   }
 
   // Commonly used shortcuts:
