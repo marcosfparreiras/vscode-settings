@@ -19,5 +19,7 @@
 
   // Commonly used shortcuts:
   // ctrl+': toggle Terminal
-
+  // ctrl+i: Expand Line Selection
+  // alt+z:  Toggle Word wrap
 ]
+
